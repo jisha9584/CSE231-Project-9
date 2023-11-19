@@ -14,11 +14,8 @@ This script analyzes the New York Stock Exchange data from 2010 to 2016. It prov
 <br>
   1. Display all companies in the New York Stock Exchange, sorted alphabetically.
   2. Show companies' symbols.
-  <br>
   3. Find the maximum stock price of a specific company.
-  <br>
   4. Identify the company with the overall highest stock price.
-  <br>
   5. Calculate and display the average stock price of a company.
   <br>
   
