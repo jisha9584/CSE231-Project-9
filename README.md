@@ -17,7 +17,6 @@ This script analyzes the New York Stock Exchange data from 2010 to 2016. It prov
   3. Find the maximum stock price of a specific company.
   4. Identify the company with the overall highest stock price.
   5. Calculate and display the average stock price of a company.
-  <br>
   
 **User-Friendly Interface:** Interactive menu-driven user interface for easy navigation through different analytical options.
 
