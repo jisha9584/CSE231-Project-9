@@ -13,7 +13,6 @@ This script analyzes the New York Stock Exchange data from 2010 to 2016. It prov
 **Analytical Options:**
 <br>
   1. Display all companies in the New York Stock Exchange, sorted alphabetically.
-  <br>
   2. Show companies' symbols.
   <br>
   3. Find the maximum stock price of a specific company.
