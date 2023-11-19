@@ -22,6 +22,7 @@ This script analyzes the New York Stock Exchange data from 2010 to 2016. It prov
   <br>
   5. Calculate and display the average stock price of a company.
   <br>
+  
 **User-Friendly Interface:** Interactive menu-driven user interface for easy navigation through different analytical options.
 
 <br>
